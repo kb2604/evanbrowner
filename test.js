@@ -1,0 +1,2 @@
+var egg;
+egg = "hi";
